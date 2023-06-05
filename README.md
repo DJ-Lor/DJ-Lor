@@ -1,4 +1,4 @@
-##🪴 Hello World ~
+##🪴 Hello World ~##
 
 **Hi, I'm Loreli, a passionate problem-solver delving into the world of software engineering and loving it!💃**
 **I recently graduated from the Coder Academy Fullstack Web Development Program in 2023 and excited to move forward with my career.**
