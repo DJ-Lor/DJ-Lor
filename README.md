@@ -10,6 +10,7 @@ ______
 
 - 🔭&nbsp; Keen on learning `React-Native`, `React-TypeScript` and `Nextjs`.
 - 🌱&nbsp; New projects in the planning:
+  - * MERN` full stack web application, a group project. 
   - *"Rock, Paper, Scissors"*, a simple app to practice `Python`.
   - *"Real Estate App powered by Domain's API"* web app using the Nextjs. 
 
