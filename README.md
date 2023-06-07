@@ -8,7 +8,6 @@ ______
 
 #### What I've been up to:
 
-- 💡&nbsp; Undertaking Harvard's [*"CS50: Introduction to Computer Science"*](https://pll.harvard.edu/course/cs50-introduction-computer-science) to deepen understanding of computer science's core concepts and solidify how I think algorithmically and solve problems efficiently.
 - 🔭&nbsp; Keen on learning `React-Native`, `React-TypeScript` and `Nextjs`.
 - 🌱&nbsp; New projects in the planning:
   - *"Rock, Paper, Scissors"*, a simple app to practice `Python`.
