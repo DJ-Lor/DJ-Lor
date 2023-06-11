@@ -1,7 +1,7 @@
 ## 🪴Hello World ~ ##
 
 **Hi, I'm Loreli, a passionate problem-solver delving into the world of software engineering and loving it!💃**
-**I recently graduated from the Coder Academy Fullstack Web Development Program in 2023 and excited to move forward with my career.**
+**I am soon to complete my Coder Academy Fullstack Web Development Program in July 2023 and excited to move forward with my career.**
 
 **I come with over 10 years industry experience in digital marketing, tracking, data analytics and using these tools to tell meaningful brand stories online. I am highly organised, data-inspired, a strong collaborator and an avid learner.**
 ______
