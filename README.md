@@ -1,7 +1,9 @@
 ## 🪴Hello World ~ ##
 
-**Hi, I'm Loreli, a passionate problem-solver delving into the world of software engineering and loving it!💃**
+**Hi, I'm Loreli, a passionate problem-solver delving into the world of engineering and loving it!💃**
 **Recently completed my Coder Academy Fullstack Web Development Program in July 2023 and excited to move forward with my career.**
+
+**Currently bringing my background in application development and digital marketing to provide a unique perspective in the DevOps space. With a focus in the Observability practice, I am involved in integrating quality early in the development process by helping clients gain critical insights through increased visibility.**
 
 **I come with over 10 years industry experience in digital marketing, tracking, data analytics and using these tools to tell meaningful brand stories online. I am highly organised, data-inspired, a strong collaborator and an avid learner.**
 
