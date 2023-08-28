@@ -4,8 +4,6 @@
 
 **Recently completed my Coder Academy Fullstack Web Development Program in July 2023 and currently bringing my background in application development and digital marketing to provide a unique perspective in the DevOps space. With a focus in the Observability practice, I am involved in integrating quality early in the development process - using visibility to drive critical insights across all levels.**
 
-**I come with over 10 years industry experience in digital marketing, tracking, data analytics and using these tools to tell meaningful brand stories online. I am highly organised, data-inspired, a strong collaborator and an avid learner.**
-
 **Check out my [portfolio](https://dj-lor.github.io/portfolio/)✨**
 ______
 
