@@ -9,7 +9,7 @@ ______
 
 #### What I've been up to:
 
-- ⭐&nbsp; Certifications in progress: `Dynatrace Associate Certification` and `AWS Certification`.
+- ⭐&nbsp; Certifications: `Dynatrace Associate Certification` and `AWS Cloud Practitioner Certification`.
 - 🔭&nbsp; Keen on learning `React-Native`, `React-TypeScript` and `Nextjs`.
 - 🌱&nbsp; New projects in the planning:
   - `MERN` full stack web application. 
