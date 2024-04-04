@@ -4,7 +4,7 @@
 
 **I bring together strategic vision, technical acumen and effective stakeholder management to drive impactful product development aligned with business objectives. I enjoy working collaboratively with different teams to ensure we deliver excellent products and solutions that clients love ❤️.**
 
-**In my current role now as an Engineering Consultant, I help clients securely achieve a "continuous everything" approach. Specialising in Project Delivery, Security and the Observability space, I advocate for early integration of security and quality in the SDLC process.**
+In my current role now as an Engineering Consultant, I help clients securely achieve a "continuous everything" approach. Specialising in Project Delivery, Security and the Observability space, I advocate for early integration of security and quality in the SDLC process.
 
 **Check out my [portfolio](https://dj-lor.github.io/portfolio/)✨**
 ______
