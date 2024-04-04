@@ -1,8 +1,10 @@
 ## 🪴Hello World ~ ##
 
-**Hi, I'm Loreli, a passionate problem-solver delving into the world of engineering and loving it!💃**
+**Hi, I'm Loreli, a passionate problem-solver with a background in product, engineering and project delivery!💃**
 
-**Recently completed my Coder Academy Fullstack Web Development Program in July 2023 and currently bringing my background in application development and digital marketing to provide a unique perspective in the DevOps space. With a focus in the Observability practice, I am involved in integrating quality early in the development process - using visibility to drive critical insights across all levels.**
+**I bring together strategic vision, technical acumen and effective stakeholder management to drive impactful product development aligned with business objectives. I enjoy working collaboratively with different teams to ensure we deliver excellent products and solutions that clients love ❤️.**
+
+**In my current role now as an Engineering Consultant, I help clients securely achieve a "continuous everything" approach. Specialising in Project Delivery, Security and the Observability space, I advocate for early integration of security and quality in the SDLC process.**
 
 **Check out my [portfolio](https://dj-lor.github.io/portfolio/)✨**
 ______
