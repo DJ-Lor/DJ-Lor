@@ -9,7 +9,7 @@ ______
 
 #### What I've been up to:
 
-- ⭐&nbsp; Certifications: `AWS Cloud Practitioner Certification` , `Azure Fundamentals1, `Dynatrace Associate Certification` and `LaunchDarkly Platinum Certification`.
+- ⭐&nbsp; Certifications: `AWS Cloud Practitioner Certification` , `Azure Fundamentals`, `Dynatrace Associate Certification` and `LaunchDarkly Platinum Certification`.
 - 🔭&nbsp; Keen on learning `React-Native`, `React-TypeScript` and `Nextjs`.
 - 🌱&nbsp; New projects in the planning:
   - *"Rock, Paper, Scissors"*, a simple app to practice `Python`.
