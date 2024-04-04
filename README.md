@@ -2,7 +2,7 @@
 
 **Hi, I'm Loreli, a passionate problem-solver with a background in product, engineering and project delivery!💃**
 
-**I bring together strategic vision, technical acumen and effective stakeholder management to drive impactful product development aligned with business objectives. I enjoy working collaboratively with different teams and delivering excellent products and solutions that clients love ❤️**
+**I bring together strategic vision, technical acumen and effective stakeholder management to drive impactful product development aligned with business objectives. I enjoy working collaboratively with different teams and delivering excellent products and solutions that clients love**
 
 **Check out my [portfolio](https://dj-lor.github.io/portfolio/)✨**
 ______
