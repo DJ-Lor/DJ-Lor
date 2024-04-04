@@ -25,7 +25,7 @@ ______
 
 <!-- 🏠&nbsp; **Please visit** → [/](https://) -->
 
-📫&nbsp;  **I'd love to connect!** →  [LinkedIn](https://www.linkedin.com/in/loreli-de-jesus-084b571a5/)
+📫&nbsp;  **I'd love to connect!** →  [LinkedIn](https://www.linkedin.com/in/loreli-d-084b571a5/)
 
 <!--
 **DJ-Lor/DJ-Lor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
